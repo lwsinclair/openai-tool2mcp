@@ -1,3 +1,5 @@
+[![MseeP.ai Security Assessment Badge](https://mseep.net/pr/alohays-openai-tool2mcp-badge.png)](https://mseep.ai/app/alohays-openai-tool2mcp)
+
 # openai-tool2mcp
 
 [![Release](https://img.shields.io/github/v/release/alohays/openai-tool2mcp)](https://img.shields.io/github/v/release/alohays/openai-tool2mcp)
